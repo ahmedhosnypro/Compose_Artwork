@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Artwork</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lemon_tree">Lemon Tree</string>
+    <string name="artist">Google training Team</string>
+    <string name="lemon_squeeze">Lemon</string>
+    <string name="lemon_drink">Glass of lemonade</string>
+    <string name="lemon_restart">Empty glass</string>
+    <string name="year">2023</string>
+</resources>
